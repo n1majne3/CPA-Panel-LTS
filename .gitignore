@@ -17,6 +17,7 @@ style.md
 node_modules
 dist
 dist-ssr
+.worktrees
 *.local
 skills
 # Local helper userscripts
